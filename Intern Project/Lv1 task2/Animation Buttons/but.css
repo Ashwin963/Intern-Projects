@@ -1,0 +1,22 @@
+.con{
+    text-align: center;
+    margin: 200px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 6px;
+    padding: 20px;
+    border-width: 3px;
+}
+.hea{
+    color: lightseagreen;
+    font-size: 26px;
+    font-family: 'Roboto';
+}
+.butt{
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+    border-width: 0px;
+    color: white;
+    background-color: red;
+}

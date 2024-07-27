@@ -1,0 +1,14 @@
+.hea{
+    font-size: 30px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+.con-1{
+    border-style: solid;
+    border-color: grey;
+    margin: 200px;
+    border-width: 5px;
+    border-radius: 6px;
+    padding: 12px;
+    padding-left: 50px;
+}

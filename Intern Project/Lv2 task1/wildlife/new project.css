@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-con {
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dqclwnqel/image/upload/v1664000939/pexels-richard-dacker-112934_kmdmwa.jpg');
+    width: 100%;
+    padding: 80px;
+}
+.bg-container {
+    border-radius: 30px;
+    background-image: url('https://res.cloudinary.com/dqclwnqel/image/upload/v1704957387/Snapinsta.app_336299847_533632148821905_683116130413887314_n_1080_xjfl3n.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.bg-containers{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-image: url('https://w.forfun.com/fetch/9b/9b7fc04f66f6a369a524f619a2072b0d.jpeg?h=600&r=0.5');
+    background-size: cover;
+    width: 100%;
+}
+.bg-container-1 {
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dqclwnqel/image/upload/v1664000939/pexels-richard-dacker-112934_kmdmwa.jpg');
+    width: 100%;
+    padding: 100px;
+}
+
+.bg-container1 {
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dqclwnqel/image/upload/v1664000939/pexels-richard-dacker-112934_kmdmwa.jpg');
+    width: 100%;
+    padding: 50px;
+}
+
+.bg-container-ex-1 {
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dqclwnqel/image/upload/v1664000939/pexels-richard-dacker-112934_kmdmwa.jpg');
+    width: 100%;
+    padding: 80px;
+}
+.sub-cons {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    margin-top: 600px;
+    width: 100%;
+}
+
+.sub-con {
+    margin-top: 65%;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.sub-con-1 {
+    background-color: black;
+    border-radius: 20px;
+}
+
+.but {
+    margin-bottom: 19px;
+}
+
+.hea-ed {
+    font-family: "Roboto";
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cent-ed {
+    text-align: center;
+}
+
+.hea-ed1 {
+    font-family: "Roboto";
+    width: 100%;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.par-ed {
+    font-family: "Roboto";
+    width: 100%;
+    padding: 8px;
+}
+
+
+
+.btn-ed {
+    padding: 6px;
+    margin: 6px;
+}
+
+.sub-con1 {
+    background-color: black;
+    padding: 30px;
+    color: white;
+    border-radius: 20px;
+}
+
+.sub-con2 {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+}
+
+.sub-con-2 {
+    background-color: black;
+    width: 300%;
+    font-size: 100%;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.cent-ed {
+    text-align: center;
+}
+
+.par-ed1 {
+    font-family: "Bree Serif";
+    font-size: 100%;
+    width: 100%;
+    color: gray;
+    padding: 6px;
+}
+
+.hea-ed1 {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 100%;
+    width: 100%;
+    font-weight: bold;
+}
+
+.img-des2 {
+    width: 100%;
+}
+
+.img-des3 {
+    width: 300%;
+}
+
+.pho-des {
+    margin: 6px;
+    width: 100%;
+    text-align: center;
+    padding: 9px;
+}
+
+.pho-ed {
+    padding: 14px;
+    margin: 9px;
+    color: white;
+}
